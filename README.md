@@ -36,3 +36,7 @@ term-dx -v                     # Include events (verbose)
 - **Pods**: node/container runtime not responding, or finalizers not removed.
 
 The tool prints finalizers, remaining dependents (for namespaces), unavailable API services, and suggested remediation.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
